@@ -1,0 +1,6 @@
+{
+  "name": "Donor Connect",
+  "description": "Connect blood donors directly with recipients in urgent need, showing nearby available donors, hospitals, and real-time blood stock availability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
